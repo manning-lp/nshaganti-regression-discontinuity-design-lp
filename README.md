@@ -1,2 +1,2 @@
-# leveraging-natural-experiments-lp-author
-Repository for liveProject: Leveraging Natural Experiments
+# regression-discontinuity-design-lp-author
+Repository for liveProject: Regression Discontinuity Design
